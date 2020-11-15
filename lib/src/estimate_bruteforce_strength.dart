@@ -1,7 +1,4 @@
-/*
- * Author : Julien Scholz
- * https://github.com/Pikaju/PasswordStrength
- */
+
 import 'dart:math';
 
 double estimateBruteforceStrength(String password) {
